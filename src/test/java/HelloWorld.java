@@ -5,8 +5,11 @@ import org.testng.annotations.Test;
  */
 public class HelloWorld {
 
+    /* Hola! */
+
     @Test
     public void helloWorld() {
-        System.out.println("Hello, World! ᕕ( ᐛ )ᕗ");
+        System.out.println("ahoy! ᕕ( ᐛ )ᕗ");
     }
+
 }
